@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./deepnode_github_profile_1024.png" width="220" alt="DeepNode Industries Logo"/>
+  <img src="[./deepnode_github_profile_1024.png](https://i.postimg.cc/SxHvD9Dp/Chat-GPT-Image-19-may-2026-08-47-06-p-m.png)" width="220" alt="DeepNode Industries Logo"/>
 </p>
 
 <h1 align="center">DeepNode Industries</h1>
